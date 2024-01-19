@@ -4,4 +4,6 @@ Ce fichier tente de coller le plus possible aux recommendations bibliographiques
 
 Je me suis aidé de ChatGPT (https://chat.openai.com/) et de Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) pour faire les modifications.
 
+Il est probable que des bogues subsistent çà et là. Ce fichier est fournis en tant que tel, sans garantie de bon fonctionnement ni de fiabilité.
+
 Voir aussi un projet similaire en LaTex : https://github.com/jeromevillebrun/template_bibliographie_fial-uclouvain
