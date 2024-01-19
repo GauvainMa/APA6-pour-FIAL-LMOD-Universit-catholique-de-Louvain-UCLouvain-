@@ -6,6 +6,6 @@ Je me suis aidé de ChatGPT (https://chat.openai.com/) et de Visual CSL Editor (
 
 Je me suis dit que mon travail pourrait bénéficier à d'autres, donc je mets à disposition mon fichier CSL.
 
-Il est probable que des bogues subsistent çà et là. Ce fichier est fournis en tant que tel, sans garantie de bon fonctionnement ni de fiabilité.
+Il est probable que des bogues subsistent çà et là, que des données bibliograohiques s'affichent où elles ne devraient pas dans la référence, ou qu'elles ne s'affichent pas même si elles sont entrées dans Zotero. Ce fichier est fournis en tant que tel, sans garantie de bon fonctionnement ni de fiabilité.
 
 Voir aussi un projet similaire en LaTex : https://github.com/jeromevillebrun/template_bibliographie_fial-uclouvain
